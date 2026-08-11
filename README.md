@@ -208,15 +208,13 @@ Alongside this, I'm continuously improving my **DSA, SQL and problem-solving ski
 
 # 💻 Problem Solving
 
-### LeetCode
+I'm building consistent problem-solving skills through **LeetCode and GeeksforGeeks**, with my solutions organized on GitHub.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pratik__Haladkar-18181B?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Pratik_Haladkar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pratik__Haladkar-18181B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pratik_Haladkar/)
 
-### GitHub DSA Repository
+[![DSA Repository](https://img.shields.io/badge/DSA_Solutions-GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik-https/leetcode-solutions)
 
-[![DSA](https://img.shields.io/badge/DSA_&_Solutions-GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pratik-https/leetcode-solutions)
-
-> My coding practice is being organized through GitHub as I build consistency across DSA and SQL.
+[Explore DSA →](./domains/dsa.md)
 
 ---
 
