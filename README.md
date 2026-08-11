@@ -93,12 +93,38 @@ LLMs, RAG, tool calling, AI agents and agentic workflows.
 
 <td align="center" width="50%">
 
-### 💻 DSA & SQL
+### 💻 DSA
 
-LeetCode, HackerRank, GeeksforGeeks and algorithmic problem solving.
+LeetCode, GeeksforGeeks and algorithmic problem solving.
 
 <a href="./domains/dsa.md">
 <img src="https://img.shields.io/badge/EXPLORE_PROGRESS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ SQL
+
+SQL practice, analytical queries and data-focused problem solving.
+
+<a href="./domains/sql.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROGRESS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📈 Financial Analytics
+
+Financial data analysis, KPIs, performance analysis and decision support.
+
+<a href="./domains/data-analytics.md">
+<img src="https://img.shields.io/badge/EXPLORE_COMING_SOON-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
