@@ -1,25 +1,42 @@
+<div align="center">
+
 # 👋 Hi, I'm Pratik Haladkar
 
-### AI/ML • Data Analytics • AI Engineering • Full Stack • GenAI
+### 🤖 AI/ML • 📊 Data Analytics • 🧠 AI Engineering • 🌐 Full Stack
 
-> Building practical software, data, machine learning, and AI systems.
+**Building practical software, data, machine learning and AI systems.**
 
-I'm a Computer Science & Engineering student focused on turning ideas into **real-world, usable projects** across software development, data, machine learning, and modern AI.
+<br>
 
-I believe in learning by building — understanding the fundamentals, implementing them, and continuously improving projects into production-ready systems.
+<a href="https://www.linkedin.com/in/pratik-haladkar-346364312/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Pratik_Haladkar/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pratikhaladkar01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-https&style=for-the-badge&color=blueviolet" />
+
+</div>
 
 ---
 
-## 🎯 What I Do
+## 👨‍💻 About Me
 
-```text
-🌐 Full Stack Development
-📊 Data Analytics
-🤖 Machine Learning
-🧠 AI Engineering
-✨ Generative AI & AI Agents
-💻 DSA & SQL
-```
+I'm a **Computer Science & Engineering student** passionate about building practical solutions across software development, data, machine learning and modern AI.
+
+My approach is simple:
+
+> **Learn → Build → Deploy → Improve**
+
+I'm continuously developing skills across **Full Stack Development, Data Analytics, Machine Learning, AI Engineering, Generative AI and Data Structures & Algorithms.**
 
 ---
 
@@ -27,241 +44,191 @@ I believe in learning by building — understanding the fundamentals, implementi
 
 <table>
 <tr>
-<td align="center" width="50%">
 
-### 🌐 Full Stack Development
+<td width="50%" align="center">
 
-Web applications, backend systems, APIs and databases.
+<h2>🌐 Full Stack Development</h2>
+
+<p>
+Building web applications, backend systems,
+APIs and database-driven applications.
+</p>
+
+<p>
+<b>Flask • FastAPI • HTML • CSS • Bootstrap • SQLite</b>
+</p>
 
 <a href="./domains/full-stack.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 📊 Data Analytics
+<h2>📊 Data Analytics</h2>
 
-Data exploration, SQL, visualization, business and financial analytics.
+<p>
+Turning raw data into insights through
+analysis, visualization and statistics.
+</p>
+
+<p>
+<b>Python • Pandas • NumPy • SQL • Excel • Power BI</b>
+</p>
 
 <a href="./domains/data-analytics.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00A67E?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### 🤖 Machine Learning
+<td width="50%" align="center">
 
-Classification, regression, preprocessing, model evaluation and prediction systems.
+<h2>🤖 Machine Learning</h2>
+
+<p>
+Building predictive systems using data
+preprocessing, modeling and evaluation.
+</p>
+
+<p>
+<b>Python • Pandas • NumPy • Scikit-learn</b>
+</p>
 
 <a href="./domains/machine-learning.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-FF6B35?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🧠 AI Engineering
+<h2>🧠 AI Engineering</h2>
 
-AI/ML APIs, model serving, deployment and production-oriented AI systems.
+<p>
+Turning ML and AI capabilities into
+usable APIs and deployable applications.
+</p>
+
+<p>
+<b>Python • FastAPI • APIs • Model Serving</b>
+</p>
 
 <a href="./domains/ai-engineering.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-8E44AD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### ✨ GenAI + AI Agents
+<td width="50%" align="center">
 
-LLMs, RAG, tool calling, AI agents and agentic workflows.
+<h2>✨ GenAI + AI Agents</h2>
+
+<p>
+Exploring LLMs, RAG, tool calling,
+AI agents and agentic workflows.
+</p>
+
+<p>
+<b>LLMs • RAG • Agents • LangChain • LangGraph</b>
+</p>
 
 <a href="./domains/genai-agents.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-F39C12?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 💻 DSA
+<h2>💻 DSA</h2>
 
-LeetCode, GeeksforGeeks and algorithmic problem solving.
+<p>
+Developing algorithmic thinking and
+problem-solving skills for technical interviews.
+</p>
+
+<p>
+<b>LeetCode • Algorithms • Data Structures</b>
+</p>
 
 <a href="./domains/dsa.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROGRESS-18181B?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ SQL
-
-SQL practice, analytical queries and data-focused problem solving.
-
-<a href="./domains/sql.md">
-<img src="https://img.shields.io/badge/EXPLORE_PROGRESS-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_PROGRESS-EF476F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
-<td align="center" width="50%">
-
-### 📈 Financial Analytics
-
-Financial data analysis, KPIs, performance analysis and decision support.
-
-<a href="./domains/data-analytics.md">
-<img src="https://img.shields.io/badge/EXPLORE_COMING_SOON-18181B?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
 </tr>
 </table>
 
 ---
 
-# ⭐ Featured Work
+# 🛠️ Tech Stack
 
-A selection of projects demonstrating my practical experience across software, data and machine learning.
+<div align="center">
 
-| Project                        | Domain           | Technologies                        |
-| ------------------------------ | ---------------- | ----------------------------------- |
-| 🏕️ Trekking Management System | Full Stack       | Flask • Jinja2 • Bootstrap • SQLite |
-| 🔊 Sonar Rock vs Mine          | Machine Learning | Python • Scikit-learn • Streamlit   |
-| 🩺 Diabetes Prediction API     | AI Engineering   | Python • Scikit-learn • FastAPI     |
-| ❤️ Heart Disease Prediction    | Machine Learning | Python • Pandas • Scikit-learn      |
+### 👨‍💻 Programming
 
-> More projects are organized inside their respective domain pages.
+<img src="https://skillicons.dev/icons?i=python,c,cpp,sql" />
+
+<br><br>
+
+### 📊 Data & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
+
+<br><br>
+
+### 🌐 Web & Backend
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,html,css,bootstrap" />
+
+<br><br>
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode,jupyter" />
+
+</div>
 
 ---
 
-# 🛠️ Technology Stack
+# 🧠 AI & Data Interests
 
-### Programming
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-18181B?style=flat-square\&logo=cplusplus\&logoColor=white)
+| 🤖 AI / ML | 📊 Data | 🌐 Engineering |
+|:---:|:---:|:---:|
+| Machine Learning | Data Analytics | Full Stack |
+| Generative AI | Data Visualization | REST APIs |
+| RAG | Statistics | Backend Development |
+| AI Agents | Business Analytics | Model Deployment |
+| Agentic AI | SQL | AI Applications |
 
-### Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-18181B?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=flat-square\&logo=plotly\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-18181B?style=flat-square\&logo=powerbi\&logoColor=white)
-
-### Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-18181B?style=flat-square\&logo=scikitlearn\&logoColor=white)
-
-### Backend & Full Stack
-
-![Flask](https://img.shields.io/badge/Flask-18181B?style=flat-square\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=flat-square\&logo=fastapi\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square\&logo=bootstrap\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square\&logo=sqlite\&logoColor=white)
-
-### AI
-
-![OpenAI](https://img.shields.io/badge/LLMs-18181B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-18181B?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-18181B?style=flat-square)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+</div>
 
 ---
 
 # 📚 Currently Learning
 
 ```text
+Data Structures & Algorithms
+          ↓
 Data Analytics
-      ↓
+          ↓
 Machine Learning
-      ↓
+          ↓
 AI Engineering
-      ↓
+          ↓
 Generative AI
-      ↓
+          ↓
 AI Agents & Agentic AI
-```
-
-Alongside this, I'm continuously improving my **DSA, SQL and problem-solving skills**.
-
----
-
-# 💻 Problem Solving
-
-I'm building consistent problem-solving skills through **LeetCode and GeeksforGeeks**, with my solutions organized on GitHub.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Pratik__Haladkar-18181B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pratik_Haladkar/)
-
-[![DSA Repository](https://img.shields.io/badge/DSA_Solutions-GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratik-https/leetcode-solutions)
-
-[Explore DSA →](./domains/dsa.md)
-
----
-
-# 🎯 Career Focus
-
-I'm building toward opportunities in:
-
-**AI/ML Engineering · AI Engineering · Data Analytics · Machine Learning · GenAI Engineering · Software Development**
-
-My focus is on developing the combination of:
-
-```text
-Strong Fundamentals
-        +
-Practical Projects
-        +
-Problem Solving
-        +
-Deployment
-        +
-Continuous Learning
-```
-
----
-
-# 📫 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pratik-haladkar-346364312/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/u/Pratik_Haladkar/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-<a href="mailto:pratikhaladkar01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 🚀 Build. Learn. Solve. Ship.
-
-</p>
