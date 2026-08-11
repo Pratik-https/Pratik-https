@@ -1,237 +1,243 @@
 # 👋 Hi, I'm Pratik Haladkar
 
-### AI/ML • Data Analytics • Full Stack • AI Engineering • GenAI
+### AI/ML • Data Analytics • AI Engineering • Full Stack • GenAI
 
-I'm a Computer Science & Engineering student focused on building practical solutions across **software development, data, machine learning, and modern AI systems**.
+> Building practical software, data, machine learning, and AI systems.
 
-I enjoy turning ideas into working projects — from web applications and data analysis to machine-learning models, AI-powered applications, and autonomous AI agents.
+I'm a Computer Science & Engineering student focused on turning ideas into **real-world, usable projects** across software development, data, machine learning, and modern AI.
+
+I believe in learning by building — understanding the fundamentals, implementing them, and continuously improving projects into production-ready systems.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 What I Do
+
+```text
+🌐 Full Stack Development
+📊 Data Analytics
+🤖 Machine Learning
+🧠 AI Engineering
+✨ Generative AI & AI Agents
+💻 DSA & SQL
+```
+
+---
+
+# 🧭 Explore My Work
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Full Stack Development
+
+Web applications, backend systems, APIs and databases.
+
+<a href="./domains/full-stack.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Data Analytics
+
+Data exploration, SQL, visualization, business and financial analytics.
+
+<a href="./domains/data-analytics.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Machine Learning
+
+Classification, regression, preprocessing, model evaluation and prediction systems.
+
+<a href="./domains/machine-learning.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 AI Engineering
+
+AI/ML APIs, model serving, deployment and production-oriented AI systems.
+
+<a href="./domains/ai-engineering.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ✨ GenAI + AI Agents
+
+LLMs, RAG, tool calling, AI agents and agentic workflows.
+
+<a href="./domains/genai-agents.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 💻 DSA & SQL
+
+LeetCode, HackerRank, GeeksforGeeks and algorithmic problem solving.
+
+<a href="./domains/dsa.md">
+<img src="https://img.shields.io/badge/EXPLORE_PROGRESS-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⭐ Featured Work
+
+A selection of projects demonstrating my practical experience across software, data and machine learning.
+
+| Project                        | Domain           | Technologies                        |
+| ------------------------------ | ---------------- | ----------------------------------- |
+| 🏕️ Trekking Management System | Full Stack       | Flask • Jinja2 • Bootstrap • SQLite |
+| 🔊 Sonar Rock vs Mine          | Machine Learning | Python • Scikit-learn • Streamlit   |
+| 🩺 Diabetes Prediction API     | AI Engineering   | Python • Scikit-learn • FastAPI     |
+| ❤️ Heart Disease Prediction    | Machine Learning | Python • Pandas • Scikit-learn      |
+
+> More projects are organized inside their respective domain pages.
+
+---
+
+# 🛠️ Technology Stack
 
 ### Programming
 
-`Python` `SQL` `C/C++` `HTML` `CSS`
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square\&logo=postgresql\&logoColor=white)
+![C](https://img.shields.io/badge/C%2FC%2B%2B-18181B?style=flat-square\&logo=cplusplus\&logoColor=white)
 
 ### Data & Analytics
 
-`Pandas` `NumPy` `Matplotlib` `Excel` `SQL` `Power BI`
+![Pandas](https://img.shields.io/badge/Pandas-18181B?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=flat-square\&logo=plotly\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-18181B?style=flat-square\&logo=powerbi\&logoColor=white)
 
 ### Machine Learning
 
-`Scikit-learn` `Data Preprocessing` `Feature Engineering` `Model Evaluation`
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-18181B?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
 ### Backend & Full Stack
 
-`Flask` `FastAPI` `REST APIs` `Jinja2` `Bootstrap` `SQLite`
+![Flask](https://img.shields.io/badge/Flask-18181B?style=flat-square\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=flat-square\&logo=fastapi\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square\&logo=bootstrap\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square\&logo=sqlite\&logoColor=white)
 
-### AI Engineering
+### AI
 
-`Python` `FastAPI` `Model Deployment` `APIs`
-
-### GenAI & AI Agents
-
-`LLMs` `RAG` `Vector Databases` `Prompt Engineering` `AI Agents` `Agentic AI`
+![OpenAI](https://img.shields.io/badge/LLMs-18181B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-18181B?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-18181B?style=flat-square)
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
-
----
-
-# 🚀 Projects
-
-## 🌐 1. Full Stack Development
-
-Building complete web applications with frontend, backend, databases, authentication and business logic.
-
-### 🏕️ Trekking Management System
-
-**Tech:** `Python` `Flask` `Jinja2` `Bootstrap` `SQLite`
-
-A role-based trekking management web application with separate functionality for administrators, trekking staff and trekkers.
-
-**Features**
-
-* Role-based authentication
-* Trek management
-* Staff management
-* Trek bookings
-* User dashboards
-* SQLite database
-* Flask backend with Jinja2 templates
-
-🔗 [View Repository](https://github.com/Pratik-https)
-
----
-
-## 📊 2. Data Analytics
-
-Projects focused on extracting insights from data through data cleaning, exploratory analysis, visualization and statistical analysis.
-
-### 📈 Projects
-
-🚧 **Data Analytics projects in progress**
-
-Future projects will include:
-
-* Exploratory Data Analysis
-* Business Analytics
-* Financial Analytics
-* Customer Analytics
-* SQL Analytics
-* Dashboard & KPI Analysis
-
-**Tech:** `Python` `Pandas` `NumPy` `SQL` `Excel` `Matplotlib` `Power BI`
-
----
-
-## 🤖 3. Machine Learning
-
-Building machine-learning solutions involving data preprocessing, feature engineering, model training, evaluation and prediction.
-
-### 🔊 Sonar Rock Mine Prediction
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-Machine-learning classification project that predicts whether sonar signals represent a **rock or a mine**.
-
-🔗 [View Repository](https://github.com/Pratik-https)
-
----
-
-### 🩺 Diabetes Prediction
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `FastAPI`
-
-Machine-learning project for predicting diabetes using patient-related features.
-
-🔗 [View Repository](https://github.com/Pratik-https)
-
----
-
-### ❤️ Heart Disease Prediction
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-Machine-learning classification project for predicting the likelihood of heart disease.
-
-🔗 [View Repository](https://github.com/Pratik-https)
-
----
-
-## 🧠 4. AI Engineering
-
-Building and deploying practical AI/ML systems with APIs, backend services and production-oriented architecture.
-
-### 🩺 Diabetes Prediction API
-
-**Tech:** `Python` `FastAPI` `Scikit-learn` `Pydantic` `Uvicorn`
-
-A machine-learning model exposed through a REST API using FastAPI.
-
-**Focus Areas**
-
-* Model serialization
-* API development
-* Input validation
-* Prediction endpoints
-* Backend architecture
-* ML model serving
-
-🔗 [View Repository](https://github.com/Pratik-https)
-
----
-
-### 🚧 Upcoming AI Engineering Projects
-
-* ML model deployment
-* AI-powered APIs
-* Dockerized AI applications
-* Cloud AI deployment
-* Production-ready AI systems
-
----
-
-# ✨ 5. GenAI + AI Agents + Agentic AI
-
-Exploring modern AI systems built around **Large Language Models, Retrieval-Augmented Generation, AI agents and autonomous workflows**.
-
-### Areas I'm Building Towards
-
-* 🧠 Large Language Model Applications
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔎 Vector Databases
-* 🔧 Tool Calling
-* 🤖 AI Agents
-* 🔗 Agentic Workflows
-* 👥 Multi-Agent Systems
-* ⚡ Autonomous AI Applications
-
-### 🚧 Projects in Progress
-
-This section will grow as I build and deploy GenAI and Agentic AI projects.
-
----
-
-# 💻 6. DSA
-
-Developing strong problem-solving and algorithmic thinking through consistent practice.
-
-### 🧩 LeetCode
-
-I practice Data Structures & Algorithms on LeetCode and maintain my solutions on GitHub.
-
-🔗 **[LeetCode Profile](https://leetcode.com/u/Pratik_Haladkar/)**
-
-### Topics
-
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Binary Search`
-
-`Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Heaps`
-
-`Greedy` `Dynamic Programming` `Recursion` `Backtracking`
-
-🔗 **[LeetCode Solutions](https://github.com/Pratik-https/leetcode-solutions)**
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 # 📚 Currently Learning
 
-* Data Structures & Algorithms
-* Data Analytics
-* Machine Learning
-* AI Engineering
-* Generative AI
-* AI Agents & Agentic AI
-* Financial Analytics
+```text
+Data Analytics
+      ↓
+Machine Learning
+      ↓
+AI Engineering
+      ↓
+Generative AI
+      ↓
+AI Agents & Agentic AI
+```
+
+Alongside this, I'm continuously improving my **DSA, SQL and problem-solving skills**.
+
+---
+
+# 💻 Problem Solving
+
+### LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pratik__Haladkar-18181B?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Pratik_Haladkar/)
+
+### GitHub DSA Repository
+
+[![DSA](https://img.shields.io/badge/DSA_&_Solutions-GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Pratik-https/leetcode-solutions)
+
+> My coding practice is being organized through GitHub as I build consistency across DSA and SQL.
 
 ---
 
 # 🎯 Career Focus
 
-I'm building toward roles in:
+I'm building toward opportunities in:
 
-**AI/ML Engineering • AI Engineering • Data Analytics • Machine Learning • GenAI Engineering • Software Development**
+**AI/ML Engineering · AI Engineering · Data Analytics · Machine Learning · GenAI Engineering · Software Development**
 
-My goal is to build projects that demonstrate not only theoretical knowledge, but also **practical implementation, deployment and problem-solving ability**.
+My focus is on developing the combination of:
 
----
-
-# 📊 GitHub Stats
-
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-https\&show_icons=true\&theme=transparent)
-
----
-
-# 📫 Connect With Me
-
-* 💻 **GitHub:** [@Pratik-https](https://github.com/Pratik-https)
-* 🧩 **LeetCode:** [Pratik_Haladkar](https://leetcode.com/u/Pratik_Haladkar/)
-* 💼 **LinkedIn:** [Pratik Haladkar](https://www.linkedin.com/in/pratik-haladkar-346364312/)
-* 📧 **Email:** [pratikhaladkar01@gmail.com](mailto:pratikhaladkar01@gmail.com)
+```text
+Strong Fundamentals
+        +
+Practical Projects
+        +
+Problem Solving
+        +
+Deployment
+        +
+Continuous Learning
+```
 
 ---
 
-### 🚀 Keep Building. Keep Learning. Keep Solving.
+# 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pratik-haladkar-346364312/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/Pratik_Haladkar/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="mailto:pratikhaladkar01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Build. Learn. Solve. Ship.
+
+</p>
