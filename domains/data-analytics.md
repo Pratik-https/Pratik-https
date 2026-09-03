@@ -1,28 +1,26 @@
-# 📊 Data Analytics
+## 🏏 Rohit Sharma Career Analysis — Power BI
 
-[← Back to Portfolio](../README.md)
+> Interactive Power BI dashboard analyzing Rohit Sharma's international
+> cricket career across ODI, T20I, and Test formats.
 
-> Turning raw data into meaningful insights that support better decisions.
+### 🛠️ Tech Stack
+`Power BI` `DAX` `Power Query` `Excel` `Data Visualization`
 
----
+### 📊 Key Analysis
+- Career runs, innings, average and strike rate
+- ODI, T20I and Test performance comparison
+- Year-wise run trends
+- 50s and 100s analysis
+- Boundary analysis
+- Interactive format and year filters
 
-## 🧩 What I Do
+### 🔄 Workflow
+**Excel Dataset → Power Query → Data Transformation → DAX → Power BI Dashboard → Insights**
 
-My data analytics work focuses on the complete analytical workflow:
+### 🔗 Links
 
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL Analysis
-   ↓
-Visualization
-   ↓
-Business Insights
-   ↓
-Decision Making
+[📁 View Project](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI)
+
+[📊 Dashboard Preview](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI/blob/main/Rohit_Sharma_Career_Analysis.png)
+
+[📄 PDF Report](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI/blob/main/Rohit_Sharma_Career_Analysis.pdf)
