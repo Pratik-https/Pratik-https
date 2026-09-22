@@ -107,6 +107,51 @@ Excel Dataset → Power Query → Data Transformation → DAX → Power BI Dashb
 
 ---
 
+## 🛒 Amazon Sales Data Analysis — Python
+
+> Exploratory data analysis project using Python to clean, explore, visualize, and generate business insights from Amazon sales data.
+
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook`
+
+### 📊 Key Analysis
+
+- Data cleaning and preparation
+- Product size analysis
+- Product category analysis
+- Courier status analysis
+- B2B vs retail customer analysis
+- Fulfilment analysis
+- State-wise geographical analysis
+- Top states by buyer count
+- Exploratory data visualization
+- Business insight generation
+
+### 🔄 Workflow
+
+Raw Dataset → Data Cleaning → Data Preparation → Exploratory Data Analysis → Visualization → Business Insights
+
+### 📈 Analysis Areas
+
+- Product Size & Quantity
+- Product Categories
+- Courier Status
+- B2B vs Retail Customers
+- Fulfilment Methods
+- Geographical Distribution
+- State-wise Buyer Analysis
+
+### 🔗 Links
+
+📁 [View Project](https://github.com/Pratik-https/Amazon-Sales-Data-Analysis)
+
+📓 [View Jupyter Notebook](https://github.com/Pratik-https/Amazon-Sales-Data-Analysis/blob/main/Amazon-Sales-Data-Analysis.ipynb)
+
+📊 [View Dataset](https://github.com/Pratik-https/Amazon-Sales-Data-Analysis/blob/main/Amazon%20Sale%20Report.csv)
+
+---
+
 ## 🧰 Data Analytics Toolkit
 
 ### Data Preparation
