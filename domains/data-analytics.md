@@ -150,6 +150,56 @@ Raw Dataset → Data Cleaning → Data Preparation → Exploratory Data Analysis
 
 📊 [View Dataset](https://github.com/Pratik-https/Amazon-Sales-Data-Analysis/blob/main/Amazon%20Sale%20Report.csv)
 
+
+The README above is based on the notebook's actual workflow: TextBlob polarity, WordClouds, emoji frequency extraction, multi-CSV consolidation/deduplication, category mapping, engagement-rate calculations, views/likes correlation, and trending-channel analysis.
+
+---
+
+## 📺 YouTube Data Analysis & Sentiment Analysis — Python
+
+> Exploratory data analysis and NLP project using Python to analyze YouTube comments, audience sentiment, engagement, content categories, and trending channels.
+
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `TextBlob` `WordCloud` `Emoji`
+
+### 📊 Key Analysis
+
+- YouTube comment sentiment analysis
+- Positive and negative comment analysis
+- WordCloud analysis
+- Emoji frequency analysis
+- Multiple YouTube dataset integration
+- Duplicate data removal
+- YouTube category analysis
+- Category-wise likes analysis
+- Like, dislike and comment rate analysis
+- Views vs likes relationship analysis
+- Correlation analysis
+- Trending channel analysis
+- Interactive Plotly visualizations
+
+### 🔄 Workflow
+
+YouTube Dataset → Data Cleaning → Sentiment Analysis → WordCloud & Emoji Analysis → Dataset Integration → Category Analysis → Engagement Analysis → Correlation Analysis → Trending Channel Analysis → Insights
+
+### 📈 Analysis Areas
+
+- Comment Sentiment
+- Positive & Negative Keywords
+- Emoji Usage
+- Video Categories
+- Likes & Engagement
+- Views vs Likes
+- Trending Channels
+- Audience Behavior
+
+### 🔗 Links
+
+📁 [View Project](https://github.com/Pratik-https/YouTube-Data-Analysis-Sentiment-Analysis)
+
+📓 [View Jupyter Notebook](https://github.com/Pratik-https/YouTube-Data-Analysis-Sentiment-Analysis/blob/main/YouTube-Data-Analysis-Sentiment-Analysis.ipynb)
+
 ---
 
 ## 🧰 Data Analytics Toolkit
