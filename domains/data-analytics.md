@@ -1,26 +1,47 @@
-## 🏏 Rohit Sharma Career Analysis — Power BI
+# 📊 Data Analytics
 
-> Interactive Power BI dashboard analyzing Rohit Sharma's international
-> cricket career across ODI, T20I, and Test formats.
+> Transforming raw data into meaningful insights through Excel, SQL, Power BI, DAX, and business-focused analytics.
+
+---
+
+# 🏥 01 — Papollo Hospitals
+## Healthcare Data Analytics
+
+<img src="https://raw.githubusercontent.com/Pratik-https/Papollo-Hospitals-Healthcare-Data-Analytics/main/Papollo-Hospitals-Dashboard.png" width="100%">
+
+### 📌 Project Overview
+
+An interactive healthcare analytics dashboard developed in **Microsoft Power BI** to analyze hospital operations, patient activity, doctors, diagnoses, billing, insurance, and bed occupancy.
+
+The project demonstrates how healthcare data can be transformed into an interactive business intelligence solution for exploring operational and financial information.
+
+### 🎯 Business Focus
+
+- Patient and admission analysis
+- Doctor analysis
+- Diagnosis analysis
+- Billing analysis
+- Health insurance analysis
+- Bed occupancy
+- Admission, discharge and follow-up activity
 
 ### 🛠️ Tech Stack
-`Power BI` `DAX` `Power Query` `Excel` `Data Visualization`
 
-### 📊 Key Analysis
-- Career runs, innings, average and strike rate
-- ODI, T20I and Test performance comparison
-- Year-wise run trends
-- 50s and 100s analysis
-- Boundary analysis
-- Interactive format and year filters
+`Excel` `Power Query` `Power BI` `DAX` `Data Visualization`
 
-### 🔄 Workflow
-**Excel Dataset → Power Query → Data Transformation → DAX → Power BI Dashboard → Insights**
+### 🔄 Analytics Workflow
 
-### 🔗 Links
-
-[📁 View Project](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI)
-
-[📊 Dashboard Preview](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI/blob/main/Rohit_Sharma_Career_Analysis.png)
-
-[📄 PDF Report](https://github.com/Pratik-https/Rohit-Sharma-Career-Analysis-PowerBI/blob/main/Rohit_Sharma_Career_Analysis.pdf)
+```text
+Excel Dataset
+     ↓
+Data Preparation
+     ↓
+Power Query
+     ↓
+Data Modeling
+     ↓
+DAX Measures
+     ↓
+Power BI Dashboard
+     ↓
+Healthcare Insights
